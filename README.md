@@ -147,7 +147,7 @@ CoreConfig.init(this, pageJson);
 
 ## License
 
-    Copyright 2015 
+    Copyright 2015  from  https://github.com/bunnyblue/ACDD.git
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
