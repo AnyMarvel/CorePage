@@ -1,0 +1,25 @@
+[
+  {
+    "name": "main",
+    "class": "cn.edu.zafu.corepage.sample.MainFragment",
+    "params": ""
+  },
+  {
+    "name": "test1",
+    "class": "cn.edu.zafu.corepage.sample.TestFragment1",
+    "params": ""
+  },
+  {
+    "name": "test2",
+    "class": "cn.edu.zafu.corepage.sample.TestFragment2",
+    "params": ""
+  },
+  {
+    "name": "test3",
+    "class": "cn.edu.zafu.corepage.sample.TestFragment3",
+    "params": {
+      "key1":"value1",
+      "key2":"value2"
+    }
+  }
+]
