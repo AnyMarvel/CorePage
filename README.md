@@ -1,15 +1,8 @@
 Corepage is a page switch framework based on Fragment
 ====================================
 
-[ ![Download](https://api.bintray.com/packages/lizhangqu/maven/corepage/images/download.svg) ](https://bintray.com/lizhangqu/maven/corepage/_latestVersion)  
+
 A page switch framework based on Fragment, you can open a page use just a method.It can be used in both Activity andFragment if you make your custom Activity extends BaseActivity and your custom Fragment extends  BaseFragment.And use BaseApplication as your Application.
-
-Changelog
----------
-
-Current version 0.0.5 released on 21th August 2015
-
-See details in [CHANGELOG](https://github.com/lizhangqu/CorePage/blob/master/CHANGELOG.md)
 
 
 Notices
@@ -25,7 +18,7 @@ Examples
 --------
 
 I have provided a sample .  
-See samples [here on Github](https://github.com/lizhangqu/CorePage/tree/master/sample)  
+See samples [here on Github](https://github.com/dssljt/CorePage.git)  
 To run Sample application, simply clone the repository and use android studio to compile,  install it on connected device  
 
 
@@ -154,7 +147,7 @@ CoreConfig.init(this, pageJson);
 
 ## License
 
-    Copyright 2015 ZhangQu Li
+    Copyright 2015 
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
